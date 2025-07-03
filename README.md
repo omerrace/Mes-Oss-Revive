@@ -98,6 +98,9 @@ Do not uninstall Google Play Services, otherwise you will not be able to use Loc
 - [Gallery](https://github.com/FossifyOrg/Gallery) - Fossify Gallery
 - [Calendar](https://github.com/FossifyOrg/Calendar) - Fossify Calendar
 - [Music Player](https://github.com/MuntashirAkon/Metro) - Metro - A music player for Android
+-  [Notes](https://github.com/OmGodse/Notally) - Notally - A beautiful notes app
+
+License
 
 # Software And Coding
 - [Acode Editor](https://github.com/deadlyjack/Acode) - code editor
