@@ -1,5 +1,5 @@
-# Mes-Oss
-Rom for rootless devices
+# Mes-Oss-Revive
+Technically rom for rootless devices
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmesflit%2FMes-Oss&countColor=%23f47373)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fmesflit%2FMes-Oss)
 
@@ -78,7 +78,7 @@ Do not uninstall Google Play Services, otherwise you will not be able to use Loc
 - [Droid-ify](https://github.com/Droid-ify/client) - for F-Droid
 
 # Keyboard
-- [Unexpected Keyboard](https://github.com/Julow/Unexpected-Keyboard)
+- [Heliboard](https://github.com/Helium314/HeliBoard)
 
 # File Managers 
 - [Material Files](https://github.com/zhanghai/MaterialFiles)
@@ -89,14 +89,14 @@ Do not uninstall Google Play Services, otherwise you will not be able to use Loc
 </a>
 
 # System Apps
-- [Dialer](https://github.com/SimpleMobileTools/Simple-Dialer) - Simple Dialer
-- [Sms Messenger](https://github.com/SimpleMobileTools/Simple-SMS-Messenger) - Simple SMS Messenger
-- [Contacts](https://github.com/SimpleMobileTools/Simple-Contacts) - Simple Contacts
-- [Clock](https://github.com/SimpleMobileTools/Simple-Clock) - Simple Clock
-- [Voice Recorder](https://github.com/SimpleMobileTools/Simple-Voice-Recorder) - Simple Voice Recorder
+- [Phone](https://github.com/FossifyOrg/Phone) - Fossify Phone
+- [Sms Messenger](https://github.com/FossifyOrg/Messages) - Fossify SMS Messenger
+- - [Contacts](https://github.com/FossifyOrg/Contacts) - Fossify Contacts
+- [Clock](https://github.com/FossifyOrg/Clock) - Fossify Clock
+- [Voice Recorder](https://github.com/FossifyOrg/Voice-Recorder) - Fossify Voice Recorder
 - [Calculator](https://github.com/Darkempire78/OpenCalc) - OpenCalc
-- [Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) - Simple Gallery
-- [Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) - Simple Calendar
+- [Gallery](https://github.com/FossifyOrg/Gallery) - Fossify Gallery
+- [Calendar](https://github.com/FossifyOrg/Calendar) - Fossify Calendar
 - [Music Player](https://github.com/MuntashirAkon/Metro) - Metro - A music player for Android
 
 # Software And Coding
@@ -105,6 +105,6 @@ Do not uninstall Google Play Services, otherwise you will not be able to use Loc
 - [Termux](https://github.com/termux/termux-app) - a Linux Environment
 
 # To Do
-- [ ] Create an automatic downloader for applications (for Termux, adb, and Obtanium)
+- [ ] Create beautiful forks so that this project grows.
 - [ ] Add more wallpaper (Community Can Help)
 - [ ] and more...
