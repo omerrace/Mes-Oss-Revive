@@ -85,7 +85,7 @@ Do not uninstall Google Play Services, otherwise you will not be able to use Loc
 
 # Wallpaper
 <a href="/wallpaper.png">
-   <img src="wallpaper.png" alt="wallpaper" width="300" height="200">
+   <img src="wallpaper.png" alt="wallpaper" width="720" height="1520">
 </a>
 
 # System Apps
