@@ -1,7 +1,7 @@
 # Mes-Oss-Revive
 Technically rom for rootless devices
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmesflit%2FMes-Oss&countColor=%23f47373)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fmesflit%2FMes-Oss)
+[![Visitors](![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fomerrace%2FMes-Oss-Revive%3Ftab%3Dreadme-ov-file&label=VISITORS&countColor=%23263759))
 
 # Contents
 - [Launchers](#launchers)
