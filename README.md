@@ -79,6 +79,7 @@ Do not uninstall Google Play Services, otherwise you will not be able to use Loc
 
 # Keyboard
 - [Heliboard](https://github.com/Helium314/HeliBoard)
+- Or internet connection disabled Gboard
 
 # File Managers 
 - [Material Files](https://github.com/zhanghai/MaterialFiles)
@@ -90,7 +91,7 @@ Do not uninstall Google Play Services, otherwise you will not be able to use Loc
 
 # System Apps
 - [Phone](https://github.com/FossifyOrg/Phone) - Fossify Phone
-- [Sms Messenger](https://github.com/FossifyOrg/Messages) - Fossify SMS Messenger
+- [Sms Messenger](https://github.com/octoshrimpy/quik) - QUIK SMS Messenger
 - - [Contacts](https://github.com/FossifyOrg/Contacts) - Fossify Contacts
 - [Clock](https://github.com/FossifyOrg/Clock) - Fossify Clock
 - [Voice Recorder](https://github.com/FossifyOrg/Voice-Recorder) - Fossify Voice Recorder
