@@ -49,7 +49,7 @@ pm uninstall -k --user 0 com.google.android.calendar
 Do not uninstall Google Play Services, otherwise you will not be able to use Location features (optional)
 
 # Launchers
-[Shade Launcher](https://github.com/amirzaidi/Shade) or [T-UI](https://github.com/fandreuz/TUI-ConsoleLauncher)
+[Fossify Launcher](https://github.com/FossifyOrg/Launcher) or [T-UI](https://github.com/fandreuz/TUI-ConsoleLauncher)
  
 
 # Browser
@@ -98,7 +98,7 @@ Do not uninstall Google Play Services, otherwise you will not be able to use Loc
 - [Calculator](https://github.com/Darkempire78/OpenCalc) - OpenCalc
 - [Gallery](https://github.com/FossifyOrg/Gallery) - Fossify Gallery
 - [Calendar](https://github.com/FossifyOrg/Calendar) - Fossify Calendar
-- [Music Player](https://github.com/MuntashirAkon/Metro) - Metro - A music player for Android
+- [Music Player]([https://github.com/MuntashirAkon/Metro](https://github.com/theovilardo/PixelPlayer)) - Pixel Player - A music player for Android
 -  [Notes](https://github.com/OmGodse/Notally) - Notally - A beautiful notes app
 
 License
